@@ -1,4 +1,5 @@
 # OSINTall
+Most OSINT tools require the same input for email search so with this tool you can run multiple tools in parallel with the same email file input.
 
 ## Usage
 
